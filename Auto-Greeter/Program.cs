@@ -19,11 +19,10 @@ namespace Auto_Greeter
 
         static void Game_OnGameLoad(EventArgs args)
         {
-       string say = "";
-            if (Game.ClockTime < 10)
-       {
-           Utility.DelayAction.Add(2000, () =>say"Good luck Have fun team, Let's win this we dem boyz");
-                 Utility.DelayAction.Add(5000, () =>say"Also, don't feed and don't rage, smoke weed everyday");
+       if (Game.Time <10000) {
+           Game.Say("Good luck have fun team! We dem boyz we got dis. Nobody rage, Smoke weed everyday!");
+           
+       }
 
        }
             Game.Say( say ));
