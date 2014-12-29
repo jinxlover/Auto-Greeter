@@ -18,7 +18,7 @@ namespace Auto_Greeter
         }
 
         static void Game_OnGameLoad(EventArgs args)
-        {//I hate you zethos
+        {//I hate you zethos //IT WORKS
        if (Game.ClockTime < 60) 
        {
            Game.Say("Good luck have fun team! We dem boyz we got dis. Nobody rage, Smoke weed everyday!");
