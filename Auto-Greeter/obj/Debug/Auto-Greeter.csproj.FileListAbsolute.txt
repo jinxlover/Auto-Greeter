@@ -1,0 +1,17 @@
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\Auto-Greeter.exe.config
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\Auto-Greeter.exe
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\Auto-Greeter.pdb
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\LeagueSharp.Common.dll
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\LeagueSharp.dll
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\SharpDX.dll
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\System.Spatial.dll
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\SharpDX.Toolkit.dll
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\SharpDX.Toolkit.Graphics.dll
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\LeagueSharp.xml
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\System.Spatial.xml
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\SharpDX.Toolkit.xml
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\bin\Debug\SharpDX.Toolkit.Graphics.xml
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\obj\Debug\Auto-Greeter.csprojResolveAssemblyReference.cache
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\obj\Debug\Auto-Greeter.exe
+C:\Users\Dude\Downloads\Auto-Greeter\Auto-Greeter\obj\Debug\Auto-Greeter.pdb
