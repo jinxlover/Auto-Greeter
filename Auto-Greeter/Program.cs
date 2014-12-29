@@ -19,13 +19,14 @@ namespace Auto_Greeter
 
         static void Game_OnGameLoad(EventArgs args)
         {
-       if(Game.Time < 10000)
+       string say = "";
+            if (Game.ClockTime < 10)
        {
-           Utility.DelayAction.Add(2000, () =>Game.Say("Good luck Have fun team, Let's win this we dem boyz"));
-                 Utility.DelayAction.Add(5000, () =>Game.Say("Also, don't feed and don't rage, smoke weed everyday"));
+           Utility.DelayAction.Add(2000, () =>say"Good luck Have fun team, Let's win this we dem boyz");
+                 Utility.DelayAction.Add(5000, () =>say"Also, don't feed and don't rage, smoke weed everyday");
 
        }
-           
+            Game.Say( say ));
             //Tells the user that the Assembly loaded and works Halleluja
             Game.PrintChat("Auto-Greeter Loaded Skrub Good luck rekking m9's");
         }
