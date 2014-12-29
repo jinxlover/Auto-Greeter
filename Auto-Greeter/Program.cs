@@ -19,11 +19,11 @@ namespace Auto_Greeter
 
         static void Game_OnGameLoad(EventArgs args)
         {//I hate you zethos
-       if (Game.ClockTime < 10) {
+       if (Game.ClockTime < 60) 
+       {
            Game.Say("Good luck have fun team! We dem boyz we got dis. Nobody rage, Smoke weed everyday!");
-           
-       }
-Game.PrintChat("Fuck");
+         }
+Game.PrintChat("Auto-Greeter Has loaded");
        }
             
             
