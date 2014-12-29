@@ -23,7 +23,7 @@ namespace Auto_Greeter
            Game.Say("Good luck have fun team! We dem boyz we got dis. Nobody rage, Smoke weed everyday!");
            
        }
-
+Game.PrintChat("Fuck");
        }
             
             
