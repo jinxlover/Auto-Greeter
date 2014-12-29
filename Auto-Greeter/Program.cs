@@ -27,6 +27,10 @@ namespace Auto_Greeter
                  Utility.DelayAction.Add(5000, () =>Game.Say("Also, don't feed and don't rage, smoke weed everyday"));
 
             }
+            else 
+            {
+                Game.PrintChat("Refreshed");
+            }
             //Tells the user that the Assembly loaded and works Halleluja
             Game.PrintChat("Auto-Greeter Loaded Skrub Good luck rekking m9's");
         }
