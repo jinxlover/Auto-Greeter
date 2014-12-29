@@ -30,4 +30,4 @@ namespace Auto_Greeter
             Game.PrintChat("Auto-Greeter Loaded Skrub Good luck rekking m9's");
         }
     }
-}
+
