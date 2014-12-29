@@ -19,7 +19,7 @@ namespace Auto_Greeter
 
         static void Game_OnGameLoad(EventArgs args)
         {
-            if (Game.Time < 10)
+            if (Game.ClockTime < 10)
             {
                 //First Assembly ever made, already better than BLM Kappa
                 // Wee I did it!
