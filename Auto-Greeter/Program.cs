@@ -23,8 +23,8 @@ namespace Auto_Greeter
             {
                 //First Assembly ever made, already better than BLM Kappa
                 // Wee I did it!
-                 Utility.DelayAction.Add(2000, () => Game.Say("Good luck Have fun team, Let's win this we dem boyz"));
-                 Utility.DelayAction.Add(5000, () => Game.Say("Also, don't feed and don't rage, smoke weed everyday"));
+                 Utility.DelayAction.Add(2000, () =>Game.Say("Good luck Have fun team, Let's win this we dem boyz"));
+                 Utility.DelayAction.Add(5000, () =>Game.Say("Also, don't feed and don't rage, smoke weed everyday"));
 
             }
             //Tells the user that the Assembly loaded and works Halleluja
