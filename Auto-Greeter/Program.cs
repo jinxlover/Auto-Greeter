@@ -25,7 +25,7 @@ namespace Auto_Greeter
        }
 
        }
-            Game.Say( say ));
+            
             //Tells the user that the Assembly loaded and works Halleluja
             Game.PrintChat("Auto-Greeter Loaded Skrub Good luck rekking m9's");
         }
