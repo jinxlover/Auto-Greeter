@@ -27,7 +27,7 @@ namespace Auto_Greeter
                 //Game.Say("Good luck Have fun team, Let's win this we dem boyz");
                 //Game.Say("Also, don't feed and don't rage, smoke weed everyday");
                 Utility.DelayAction.Add(1500, () => Game.Say("Good luck Have fun team, Let's win this we dem boyz"));
-                Utility.DelayAction.Add(4000, () => Game.Say("Also, don't feed and don't rage, smoke weed everyday"));
+                Utility.DelayAction.Add(7000, () => Game.Say("Also, don't feed and don't rage, smoke weed everyday"));
 
             }
             //Tells the user that the Assembly loaded and works Halleluja
