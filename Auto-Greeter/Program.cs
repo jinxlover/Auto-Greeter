@@ -18,7 +18,7 @@ namespace Auto_Greeter
         }
 
         static void Game_OnGameLoad(EventArgs args)
-        {
+        {//Project abandoned. Couldn't quite get it to work :X
        if (Game.Time <10000) {
            Game.Say("Good luck have fun team! We dem boyz we got dis. Nobody rage, Smoke weed everyday!");
            
